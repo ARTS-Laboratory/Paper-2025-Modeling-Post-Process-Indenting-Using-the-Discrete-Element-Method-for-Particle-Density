@@ -2,7 +2,7 @@
 Example code for the paper Modeling Particle Density in Laser Powder Bed Fusion Dampers with the Discrete Element Method published at SPIE Smart Structures + NDE 2025
 
 * **simulation folders**: This folder contains simulations. Each is self contained with individual input, script, and if ran, ouput files.
-
+* **data**: This folder contains results used in the paper.
 ## Licensing and Citation
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
