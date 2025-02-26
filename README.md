@@ -1,4 +1,4 @@
-# Paper-Modeling-Particle-Density-in-Laser-Powder-Bed-Fusion-Dampers-with-the-Discrete-Element-Method
+# Paper 2025 Modeling Post-Process Indenting Using the Discrete Element Method for Particle Density Control in Additively Manufactured Dampers
 Example code for the paper Modeling Particle Density in Laser Powder Bed Fusion Dampers with the Discrete Element Method published at SPIE Smart Structures + NDE 2025
 
 * **simulation folders**: This folder contains simulations. Each is self contained with individual input, script, and if ran, ouput files.
@@ -17,14 +17,13 @@ This work is licensed under a
 
 Cite as:
 
-S. Roberts, Y. Fu, J. N. Satme, D. Kiracofe, A. R. J. Downey, and L. Yuan, “Paper Modeling Particle Density in Laser Powder Bed Fusion Dampers with the Discrete Element Method,” ARTS-Lab, GitHub repository. [Online]. Available: https://github.com/ARTS-Laboratory/Paper-Modeling-Particle-Density-in-Laser-Powder-Bed-Fusion-Dampers-with-the-Discrete-Element-Method [Accessed: month. day, year].
-
 in bibtex
 
 @Misc{RobertsPaperModelingParticle,   
   author       = {Samuel Roberts and Yanzhou Fu and Joud N. Satme and Daniel Kiracofe and Austin R.J. Downey and Lang Yuan},  
   howpublished = {GitHub},  
-  title        = {Paper Modeling Particle Density in Laser Powder Bed Fusion Dampers with the Discrete Element Method},   
+  title        = {Paper 2025 Modeling Post-Process Indenting Using the Discrete Element Method for Particle Density Control in Additively Manufactured Dampers},   
   groups       = {{ARTS-L}ab},  
   url          = {https://github.com/ARTS-Laboratory/Paper-Modeling-Particle-Density-in-Laser-Powder-Bed-Fusion-Dampers-with-the-Discrete-Element-Method},  
+  year         = {2025},  
 }
