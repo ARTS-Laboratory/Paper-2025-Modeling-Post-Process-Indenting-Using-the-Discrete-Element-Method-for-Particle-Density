@@ -19,11 +19,11 @@ Cite as:
 
 in bibtex
 
-@Misc{RobertsPaperModelingParticle,   
+@Misc{Roberts2025Paper2025Modeling,  
   author       = {Samuel Roberts and Yanzhou Fu and Joud N. Satme and Daniel Kiracofe and Austin R.J. Downey and Lang Yuan},  
   howpublished = {GitHub},  
-  title        = {Paper 2025 Modeling Post-Process Indenting Using the Discrete Element Method for Particle Density Control in Additively Manufactured Dampers},   
+  title        = {Paper 2025 Modeling Post-Process Indenting Using the Discrete Element Method for Particle Density Control in Additively Manufactured Dampers},  
+  year         = {2025},  
   groups       = {{ARTS-L}ab},  
   url          = {https://github.com/ARTS-Laboratory/Paper-Modeling-Particle-Density-in-Laser-Powder-Bed-Fusion-Dampers-with-the-Discrete-Element-Method},  
-  year         = {2025},  
 }
